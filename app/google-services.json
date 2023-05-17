@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290682862426",
+    "firebase_url": "https://e-comm-f90e5-default-rtdb.firebaseio.com",
+    "project_id": "e-comm-f90e5",
+    "storage_bucket": "e-comm-f90e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290682862426:android:d56eeff44e5a0460c41163",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290682862426-v3as59nc8d7q8c1boriqjuaibguan8ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGZo1pLg_JX6RyIYKgognq31JAYyTMQpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290682862426-v3as59nc8d7q8c1boriqjuaibguan8ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

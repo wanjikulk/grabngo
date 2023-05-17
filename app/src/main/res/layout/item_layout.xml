@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp"
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_column="2">
+
+<LinearLayout
+    android:gravity="center"
+    android:layout_width="90dp"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_marginRight="10dp"
+        android:id="@+id/mImgPic"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       />
+
+</LinearLayout>
+
+
+<LinearLayout
+    android:layout_marginRight="2dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+        android:textColor="#060B0E"
+        android:textSize="30sp"
+        android:id="@+id/mTvModel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <TextView
+        android:textColor="#04554E"
+        android:textSize="20sp"
+        android:id="@+id/mTvColor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <TextView
+        android:textColor="#424C4B"
+        android:textSize="20sp"
+        android:id="@+id/mTvRegNo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <TextView
+        android:textColor="#748003"
+        android:textSize="20sp"
+        android:id="@+id/mTvPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:textColor="#010407"
+            android:id="@+id/mEdtQuantity"
+            android:layout_width="137dp"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:hint="Enter quantity"
+            android:inputType="number"
+            android:textColorHint="#626567" />
+
+        <Button
+            android:id="@+id/mBtnBuy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:backgroundTint="#09930F"
+            android:text="buy" />
+
+
+    </LinearLayout>
+</LinearLayout>
+
+
+
+</LinearLayout>

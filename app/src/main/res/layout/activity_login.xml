@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mint"
+    tools:context=".LoginActivity">
+
+    <TextView
+        android:id="@+id/mTvLogo"
+        android:layout_width="379dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="87dp"
+        android:layout_marginTop="110dp"
+        android:layout_marginBottom="52dp"
+        android:text="G'n'G Fast Food"
+        android:textColor="#1B1A19"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/mEmailLogin"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/mEmailLogin"
+        android:layout_width="256dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="22dp"
+        android:ems="10"
+        android:hint=" Enter email"
+        android:inputType="textEmailAddress"
+        android:textColorHint="#070909"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/mLoginPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mTvLogo" />
+
+    <EditText
+        android:id="@+id/mLoginPassword"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="77dp"
+        android:layout_marginEnd="77dp"
+        android:layout_marginBottom="49dp"
+        android:ems="10"
+        android:hint="Enter valid password"
+        android:inputType="textPassword"
+        android:textColorHint="#000810"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/mLoginFinish"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mEmailLogin" />
+
+    <Button
+        android:id="@+id/mLoginFinish"
+        android:layout_width="179dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="114dp"
+        android:text="login"
+        android:textSize="20sp"
+        app:backgroundTint="#3B3E1C"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mLoginPassword" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

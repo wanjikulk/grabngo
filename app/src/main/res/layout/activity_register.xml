@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundp"
+    tools:context=".RegisterActivity">
+
+    <TextView
+        android:id="@+id/mTvQuestion2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginBottom="16dp"
+        android:text="Already have an account?"
+        android:textColor="#FFA200"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/mBtnRegister"
+        app:layout_constraintTop_toBottomOf="@+id/mBtnRegister" />
+
+    <TextView
+        android:id="@+id/mTvLogo"
+        android:layout_width="347dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="82dp"
+        android:layout_marginTop="42dp"
+        android:layout_marginBottom="19dp"
+        android:text="G'n'G Fast Food"
+        android:textColor="#F8151311"
+        android:textSize="30sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/mTvQuestion"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/mTvQuestion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="27dp"
+        android:layout_marginBottom="25dp"
+        android:text="Have no account? Sign up."
+        android:textColor="#000000"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toTopOf="@+id/mEdtName"
+        app:layout_constraintEnd_toEndOf="@+id/mEdtName"
+        app:layout_constraintTop_toBottomOf="@+id/mTvLogo" />
+
+    <EditText
+        android:id="@+id/mEmailLogin"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="9dp"
+        android:ems="10"
+        android:hint="Enter email"
+        android:inputType="textEmailAddress"
+        android:textColorHint="#0F0F10"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/mLoginPassword"
+        app:layout_constraintEnd_toEndOf="@+id/mLoginPassword"
+        app:layout_constraintStart_toStartOf="@+id/mLoginPassword"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtPhone" />
+
+    <EditText
+        android:id="@+id/mLoginPassword"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="10dp"
+        android:ems="10"
+        android:hint="Enter valid password"
+        android:inputType="textPassword"
+        android:textColorHint="#0A0B0C"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/mEdtPassword2"
+        app:layout_constraintEnd_toEndOf="@+id/mTvQuestion2"
+        app:layout_constraintStart_toStartOf="@+id/mEdtPassword2"
+        app:layout_constraintTop_toBottomOf="@+id/mEmailLogin" />
+
+    <EditText
+        android:id="@+id/mEdtPassword2"
+        android:layout_width="188dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="18dp"
+        android:ems="10"
+        android:hint="Confirm password"
+        android:inputType="textPassword"
+        android:textColorHint="#101112"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/mBtnRegister"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mLoginPassword" />
+
+    <EditText
+        android:id="@+id/mEdtName"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="9dp"
+        android:ems="10"
+        android:hint="Enter full name"
+        android:inputType="text"
+        android:textColorHint="#080909"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/mEdtPhone"
+        app:layout_constraintEnd_toEndOf="@+id/mEdtPhone"
+        app:layout_constraintStart_toStartOf="@+id/mEdtPhone"
+        app:layout_constraintTop_toBottomOf="@+id/mTvQuestion" />
+
+    <EditText
+        android:id="@+id/mEdtPhone"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="13dp"
+        android:ems="10"
+        android:hint="Enter phone number"
+        android:inputType="phone"
+        android:textColorHint="#0E0F10"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/mEmailLogin"
+        app:layout_constraintEnd_toEndOf="@+id/mEmailLogin"
+        app:layout_constraintStart_toStartOf="@+id/mEmailLogin"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtName" />
+
+    <Button
+        android:id="@+id/mBtnRegister"
+        android:layout_width="182dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="19dp"
+        android:text="Register"
+        app:backgroundTint="#184145"
+        app:layout_constraintBottom_toTopOf="@+id/mTvQuestion2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtPassword2" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.example.e_commerce.app-mergeDebugResources-34:/layout/activity_login.xml",
+        "source": "com.example.e_commerce.app-main-37:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.e_commerce.app-mergeDebugResources-34:/layout/activity_home.xml",
+        "source": "com.example.e_commerce.app-main-37:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\item_layout.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\activity_burger.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_burger.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\activity_storage.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_storage.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\activity_payment.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\fragment_customer_care.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\fragment_customer_care.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\fragment_cart.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.e_commerce.app-mergeDebugResources-34:/layout/fragment_home.xml",
+        "source": "com.example.e_commerce.app-main-37:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\activity_other.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\activity_storage_others.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_storage_others.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\fragment_delivery.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\fragment_delivery.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\activity_pizza.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_pizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\activity_view.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\activity_upload.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\activity_storage_pizza.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_storage_pizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-mergeDebugResources-34:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_main.xml"
+    }
+]

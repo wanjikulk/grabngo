@@ -1,0 +1,694 @@
+[
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxxhdpi_icon_yangu_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxxhdpi\\icon_yangu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_fragment_cart.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-anydpi-v26_icon_yako_round.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-anydpi-v26\\icon_yako_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_activity_burger.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_burger.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxxhdpi_icon_yangutu_round.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxxhdpi\\icon_yangutu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_dial_icon.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\dial_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxxhdpi_baseline_delivery_dining_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxxhdpi\\baseline_delivery_dining_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xhdpi_icon_yako.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xhdpi\\icon_yako.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxhdpi_icon_yako.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxhdpi\\icon_yako.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-mdpi_icon_yako_foreground.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-mdpi\\icon_yako_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-hdpi_icon_yangu_round.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-hdpi\\icon_yangu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-mdpi_icon_yako_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-mdpi\\icon_yako_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxxhdpi_icon_yako_foreground.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxxhdpi\\icon_yako_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxxhdpi_icon_yako.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxxhdpi\\icon_yako.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_activity_pizza.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_pizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxhdpi_icon_yangu_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxhdpi\\icon_yangu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-mdpi_baseline_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-mdpi\\baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-ldpi_baseline_home_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-ldpi\\baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-hdpi_icon_yangutu_foreground.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-hdpi\\icon_yangutu_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_deliveryy.webp.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\deliveryy.webp"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-mdpi_icon_yako_round.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-mdpi\\icon_yako_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxhdpi_baseline_delivery_dining_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxhdpi\\baseline_delivery_dining_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-ldpi_icon_yangutu_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-ldpi\\icon_yangutu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-mdpi_icon_yako.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-mdpi\\icon_yako.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-ldpi_baseline_person_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-ldpi\\baseline_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxxhdpi_baseline_call_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxxhdpi\\baseline_call_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-anydpi-v21_baseline_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-anydpi-v21\\baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_fragment_delivery.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\fragment_delivery.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-anydpi-v26_icon_yangu.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-anydpi-v26\\icon_yangu.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-anydpi-v21_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-anydpi-v21\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-mdpi_baseline_person_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-mdpi\\baseline_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xhdpi_icon_yangutu_round.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xhdpi\\icon_yangutu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-hdpi_baseline_home_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-hdpi\\baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxhdpi_icon_yangu_round.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxhdpi\\icon_yangu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxxhdpi_baseline_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxxhdpi\\baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_cart_icon.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\cart_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xhdpi_icon_yangu_foreground.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xhdpi\\icon_yangu_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-mdpi_icon_yangu.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-mdpi\\icon_yangu.png"
+    },
+    {
+        "merged": "com.example.e_commerce.app-merged_res-35:/layout_activity_login.xml.flat",
+        "source": "com.example.e_commerce.app-main-37:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxhdpi_baseline_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxhdpi\\baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_fragment_customer_care.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\fragment_customer_care.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-mdpi_icon_yangutu.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-mdpi\\icon_yangutu.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxhdpi_icon_yangu.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxhdpi\\icon_yangu.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-anydpi-v21_icon_yako_background.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-anydpi-v21\\icon_yako_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-anydpi-v26_icon_yangutu.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-anydpi-v26\\icon_yangutu.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_yellow_background.jpg.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\yellow_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xhdpi_icon_yangutu_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xhdpi\\icon_yangutu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xhdpi_icon_yangu_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xhdpi\\icon_yangu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxhdpi_icon_yako_round.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxhdpi\\icon_yako_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xhdpi_icon_yako_foreground.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xhdpi\\icon_yako_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-hdpi_baseline_call_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-hdpi\\baseline_call_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_green_backg.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\green_backg.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_chocolate.jpg.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\chocolate.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-hdpi_baseline_delivery_dining_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-hdpi\\baseline_delivery_dining_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xhdpi_icon_yangu.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xhdpi\\icon_yangu.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_meal.jpg.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\meal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_salad.jpg.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\salad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xhdpi_icon_yako_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xhdpi\\icon_yako_background.png"
+    },
+    {
+        "merged": "com.example.e_commerce.app-merged_res-35:/layout_activity_home.xml.flat",
+        "source": "com.example.e_commerce.app-main-37:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-anydpi-v21_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-anydpi-v21\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-hdpi_icon_yangutu_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-hdpi\\icon_yangutu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xhdpi_baseline_delivery_dining_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xhdpi\\baseline_delivery_dining_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xhdpi_icon_yako_round.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xhdpi\\icon_yako_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_item_layout.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_delivery_man.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\delivery_man.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-hdpi_baseline_person_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-hdpi\\baseline_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_home_icon.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-ldpi_icon_yako_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-ldpi\\icon_yako_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_activity_storage_others.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_storage_others.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-ldpi_icon_yangu_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-ldpi\\icon_yangu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_mint.webp.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\mint.webp"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxhdpi_icon_yangutu.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxhdpi\\icon_yangutu.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-mdpi_icon_yangutu_foreground.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-mdpi\\icon_yangutu_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxxhdpi_baseline_home_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxxhdpi\\baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xhdpi_icon_yangutu.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xhdpi\\icon_yangutu.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxxhdpi_icon_yako_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxxhdpi\\icon_yako_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxxhdpi_icon_yako_round.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxxhdpi\\icon_yako_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_delivery.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\delivery.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_activity_storage_pizza.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_storage_pizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xhdpi_icon_yangutu_foreground.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xhdpi\\icon_yangutu_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-hdpi_icon_yako_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-hdpi\\icon_yako_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-ldpi_baseline_delivery_dining_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-ldpi\\baseline_delivery_dining_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_activity_storage.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_storage.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-mdpi_icon_yangu_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-mdpi\\icon_yangu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-mdpi_baseline_call_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-mdpi\\baseline_call_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-hdpi_icon_yako_foreground.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-hdpi\\icon_yako_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-hdpi_icon_yangutu.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-hdpi\\icon_yangutu.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxxhdpi_icon_yangutu_foreground.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxxhdpi\\icon_yangutu_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxhdpi_baseline_home_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxhdpi\\baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_gng.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\gng.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_activity_view.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-mdpi_baseline_home_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-mdpi\\baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-hdpi_icon_yangutu_round.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-hdpi\\icon_yangutu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-anydpi-v26_icon_yako.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-anydpi-v26\\icon_yako.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-ldpi_baseline_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-ldpi\\baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-anydpi-v21_baseline_delivery_dining_24.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-anydpi-v21\\baseline_delivery_dining_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxxhdpi_icon_yangu_round.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxxhdpi\\icon_yangu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_pasta.jpg.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\pasta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxxhdpi_icon_yangu.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxxhdpi\\icon_yangu.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxhdpi_baseline_call_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxhdpi\\baseline_call_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxhdpi_icon_yangutu_round.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxhdpi\\icon_yangutu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-hdpi_icon_yako.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-hdpi\\icon_yako.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_cover.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\cover.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xhdpi_baseline_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xhdpi\\baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-anydpi-v21_icon_yangutu_background.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-anydpi-v21\\icon_yangutu_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-hdpi_icon_yangu.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-hdpi\\icon_yangu.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-hdpi_baseline_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-hdpi\\baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxhdpi_icon_yangu_foreground.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxhdpi\\icon_yangu_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_burgert.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\burgert.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxxhdpi_baseline_person_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxxhdpi\\baseline_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxxhdpi_icon_yangu_foreground.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxxhdpi\\icon_yangu_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxhdpi_icon_yangutu_foreground.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxhdpi\\icon_yangutu_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxxhdpi_icon_yangutu.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxxhdpi\\icon_yangutu.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-mdpi_baseline_delivery_dining_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-mdpi\\baseline_delivery_dining_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xhdpi_baseline_home_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xhdpi\\baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxhdpi_icon_yako_foreground.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxhdpi\\icon_yako_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-mdpi_icon_yangutu_round.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-mdpi\\icon_yangutu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_backgroundp.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\backgroundp.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-mdpi_icon_yangu_foreground.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-mdpi\\icon_yangu_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-hdpi_icon_yako_round.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-hdpi\\icon_yako_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xhdpi_baseline_call_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xhdpi\\baseline_call_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-mdpi_icon_yangutu_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-mdpi\\icon_yangutu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-mdpi_icon_yangu_round.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-mdpi\\icon_yangu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_profile_icon.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxxhdpi_icon_yangutu_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxxhdpi\\icon_yangutu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_activity_upload.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-anydpi-v26_icon_yangu_round.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-anydpi-v26\\icon_yangu_round.xml"
+    },
+    {
+        "merged": "com.example.e_commerce.app-merged_res-35:/layout_fragment_home.xml.flat",
+        "source": "com.example.e_commerce.app-main-37:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-anydpi-v21_baseline_call_24.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-anydpi-v21\\baseline_call_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxhdpi_icon_yangutu_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxhdpi\\icon_yangutu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-anydpi-v21_icon_yangu_background.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-anydpi-v21\\icon_yangu_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xhdpi_baseline_person_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xhdpi\\baseline_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xhdpi_icon_yangu_round.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xhdpi\\icon_yangu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable_burger.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\drawable\\burger.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\layout_activity_other.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\layout\\activity_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-hdpi_icon_yangu_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-hdpi\\icon_yangu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxhdpi_icon_yako_background.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxhdpi\\icon_yako_background.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-anydpi-v26_icon_yangutu_round.xml.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-anydpi-v26\\icon_yangutu_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-hdpi_icon_yangu_foreground.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-hdpi\\icon_yangu_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-ldpi_baseline_call_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-ldpi\\baseline_call_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-merged_res-35:\\drawable-xxhdpi_baseline_person_24.png.flat",
+        "source": "C:\\Users\\wanjikulk\\Documents\\gradle-8.1.1\\daemon\\7.5\\com.example.e_commerce.app-pngs-30:\\drawable-xxhdpi\\baseline_person_24.png"
+    }
+]
